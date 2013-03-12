@@ -17,7 +17,7 @@ Run the program without arguments to get more information.
 
     g++ -O3 -o constraints -lgsl -lgslcblas constraints.cpp constraints-classes.cpp constraints-text.cpp basic-constraints.cpp k-monotonicity-constraints.cpp asl-constraints.cpp coherence-constraints.cpp necessity-constraints.cpp print-constraints.cpp
 
-For this command to work, you need to have the GNU compiler collection (*gcc*), the GNU Scientific Library (*gsl*) and a BLAS library installed.
+For this command to work, you need to have the GNU compiler collection *gcc*, the GNU Scientific Library *gsl* and a BLAS library installed.
 The compiler can be readily changed (the code is ANSI C++/C), but if you want to change the scientific library (which is not available for non-cygwin Windows-systems), some code changes have to be made in `coherence-constraints.cpp` and `asl-constraints.cpp`.
 
 **Licensing** Because I use the GPL'ed gsl library, this code is also GPL'ed.
@@ -40,7 +40,7 @@ They describe the calculation of the additive (l), positive (p), one-normed (o) 
 
 **Notes**
   1. Missing `*.ext` files indicate that these cases are very computationally intensive to calculate (using the [*cdd*][cdd] bundle for vertex enumeration), which is why they were not included.
-  2. Because these results were obtaining using an older version of the 'constraints' program, the one- (o) and zero-normed (z) and positivity (p) properties are not mentioned in the .ine files, although the corresponding constraints are included if these letters are in the file name.
+  2. Because these results were obtaining using an older version of the *constraints* program, the one- (o) and zero-normed (z) and positivity (p) properties are not mentioned in the .ine files, although the corresponding constraints are included if these letters are in the file name.
   3. Only a few `.adj` files are given, because most are not really interesting (at first sight?).
 
 **Licensing** These files contain the music of the polytopes, so no license can be given or is needed for their use.
