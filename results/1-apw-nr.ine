@@ -1,0 +1,17 @@
+
+*redund:lrslib v.4.2, 2005.6.1(32bit,lrsgmp.h gmp v.4.1)
+*Copyright (C) 1995,2005, David Avis   avis@cs.mcgill.ca 
+*Input taken from file 1-apw.ine
+H-representation
+begin
+4 3 rational
+ 0  1  0 
+ 0  0  1 
+ 0 -1  0 
+ 1  0 -1 
+end
+*Input had 4 rows and 3 columns: 0 row(s) redundant
+*redund:lrslib v.4.2, 2005.6.1(32bit,lrsgmp.h)
+*0.001u 0.002s 0Kb 7 flts 0 swaps 0 blks-in 0 blks-out 
+
+

@@ -1,0 +1,10 @@
+* roworder: lexmin
+V-representation
+linearity 4  1 2 3 4
+begin
+ 4 9 rational
+ 0 1 0 0 0 0 0 0 0
+ 0 0 1 1 1 0 0 0 0
+ 0 0 0 0 0 1 1 1 0
+ 0 0 0 0 0 0 0 0 1
+end

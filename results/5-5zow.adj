@@ -1,0 +1,41 @@
+input file 5-5zow.ext is open
+redundant rows:
+
+* Computation started at Thu Jun 14 16:27:46 2007
+*             ended   at Thu Jun 14 16:27:46 2007
+* Total processor time = 0 seconds
+*                      = 0 h 0 m 0 s
+Implicit linearity (after removal of redundant rows):  0  
+
+Nonredundant representation (except possibly for the linearity part):
+V-representation
+begin
+ 5 33 rational
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 2/5 2/5 2/5 2/5 2/5 1
+ 1 0 1/5 1/5 1/5 1/5 1/5 2/5 2/5 2/5 2/5 2/5 2/5 2/5 2/5 2/5 2/5 3/5 3/5 3/5 3/5 3/5 3/5 3/5 3/5 3/5 3/5 4/5 4/5 4/5 4/5 4/5 1
+ 1 0 0 0 0 0 0 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 3/10 3/10 3/10 3/10 3/10 3/10 3/10 3/10 3/10 3/10 3/5 3/5 3/5 3/5 3/5 1
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1/5 1/5 1/5 1/5 1/5 1
+end
+
+The linearity rows are independent and thus minimal
+Nonredundant representation (= minimal representation):
+V-representation
+begin
+ 5 33 rational
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 2/5 2/5 2/5 2/5 2/5 1
+ 1 0 1/5 1/5 1/5 1/5 1/5 2/5 2/5 2/5 2/5 2/5 2/5 2/5 2/5 2/5 2/5 3/5 3/5 3/5 3/5 3/5 3/5 3/5 3/5 3/5 3/5 4/5 4/5 4/5 4/5 4/5 1
+ 1 0 0 0 0 0 0 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 1/10 3/10 3/10 3/10 3/10 3/10 3/10 3/10 3/10 3/10 3/10 3/5 3/5 3/5 3/5 3/5 1
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1/5 1/5 1/5 1/5 1/5 1
+end
+
+Adjacency of the minimal representation:
+begin
+  5    5
+ 1 4 : 2 3 4 5 
+ 2 4 : 1 3 4 5 
+ 3 4 : 1 2 4 5 
+ 4 4 : 1 2 3 5 
+ 5 4 : 1 2 3 4 
+end

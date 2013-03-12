@@ -1,0 +1,23 @@
+
+*redund:lrslib v.4.2, 2005.6.1(32bit,lrsgmp.h gmp v.4.1)
+*Copyright (C) 1995,2005, David Avis   avis@cs.mcgill.ca 
+*Input taken from file 2-2zw.ine
+*row 5 was redundant and removed
+*row 7 was redundant and removed
+*row 8 was redundant and removed
+*row 10 was redundant and removed
+H-representation
+begin
+6 5 rational
+ 0 -1  0  0  0 
+ 0  1  0  0  0 
+ 0  0  1 -1  0 
+ 0  0 -1  1  0 
+ 0 -1  0  1  0 
+ 0  1 -1 -1  1 
+end
+*Input had 10 rows and 5 columns: 4 row(s) redundant
+*redund:lrslib v.4.2, 2005.6.1(32bit,lrsgmp.h)
+*0.000u 0.001s 0Kb 0 flts 0 swaps 0 blks-in 0 blks-out 
+
+

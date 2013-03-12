@@ -1,0 +1,78 @@
+
+*redund:lrslib v.4.2, 2005.6.1(32bit,lrsgmp.h gmp v.4.1)
+*Copyright (C) 1995,2005, David Avis   avis@cs.mcgill.ca 
+*Input taken from file 4-1.ine
+*row 5 was redundant and removed
+*row 8 was redundant and removed
+*row 11 was redundant and removed
+*row 14 was redundant and removed
+*row 17 was redundant and removed
+*row 20 was redundant and removed
+*row 23 was redundant and removed
+*row 24 was redundant and removed
+*row 27 was redundant and removed
+*row 29 was redundant and removed
+*row 30 was redundant and removed
+*row 31 was redundant and removed
+*row 34 was redundant and removed
+*row 36 was redundant and removed
+*row 37 was redundant and removed
+*row 38 was redundant and removed
+*row 41 was redundant and removed
+*row 43 was redundant and removed
+*row 44 was redundant and removed
+*row 45 was redundant and removed
+*row 48 was redundant and removed
+*row 50 was redundant and removed
+*row 51 was redundant and removed
+*row 52 was redundant and removed
+*row 53 was redundant and removed
+*row 56 was redundant and removed
+*row 58 was redundant and removed
+*row 59 was redundant and removed
+*row 60 was redundant and removed
+*row 62 was redundant and removed
+*row 63 was redundant and removed
+*row 64 was redundant and removed
+*row 65 was redundant and removed
+H-representation
+begin
+32 17 rational
+ 0 -1  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+ 0 -1  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0 
+ 0 -1  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0 
+ 0 -1  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0 
+ 0  0 -1  0  0  0  1  0  0  0  0  0  0  0  0  0  0 
+ 0  0  0 -1  0  0  1  0  0  0  0  0  0  0  0  0  0 
+ 0  0 -1  0  0  0  0  1  0  0  0  0  0  0  0  0  0 
+ 0  0  0  0 -1  0  0  1  0  0  0  0  0  0  0  0  0 
+ 0  0 -1  0  0  0  0  0  1  0  0  0  0  0  0  0  0 
+ 0  0  0  0  0 -1  0  0  1  0  0  0  0  0  0  0  0 
+ 0  0  0 -1  0  0  0  0  0  1  0  0  0  0  0  0  0 
+ 0  0  0  0 -1  0  0  0  0  1  0  0  0  0  0  0  0 
+ 0  0  0 -1  0  0  0  0  0  0  1  0  0  0  0  0  0 
+ 0  0  0  0  0 -1  0  0  0  0  1  0  0  0  0  0  0 
+ 0  0  0  0 -1  0  0  0  0  0  0  1  0  0  0  0  0 
+ 0  0  0  0  0 -1  0  0  0  0  0  1  0  0  0  0  0 
+ 0  0  0  0  0  0 -1  0  0  0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  0  0 -1  0  0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  0  0  0  0 -1  0  0  1  0  0  0  0 
+ 0  0  0  0  0  0 -1  0  0  0  0  0  0  1  0  0  0 
+ 0  0  0  0  0  0  0  0 -1  0  0  0  0  1  0  0  0 
+ 0  0  0  0  0  0  0  0  0  0 -1  0  0  1  0  0  0 
+ 0  0  0  0  0  0  0 -1  0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  0 -1  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  0  0  0  0 -1  0  0  1  0  0 
+ 0  0  0  0  0  0  0  0  0 -1  0  0  0  0  0  1  0 
+ 0  0  0  0  0  0  0  0  0  0 -1  0  0  0  0  1  0 
+ 0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  1  0 
+ 0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  0  1 
+ 0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  0  1 
+ 0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  0  1 
+ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 -1  1 
+end
+*Input had 65 rows and 17 columns: 33 row(s) redundant
+*redund:lrslib v.4.2, 2005.6.1(32bit,lrsgmp.h)
+*0.033u 0.002s 0Kb 0 flts 0 swaps 0 blks-in 0 blks-out 
+
+

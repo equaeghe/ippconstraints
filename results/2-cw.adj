@@ -1,0 +1,32 @@
+input file 2-cw.ext is open
+redundant rows:
+
+* Computation started at Tue Apr 18 15:38:36 2006
+*             ended   at Tue Apr 18 15:38:36 2006
+* Total processor time = 0 seconds
+*                      = 0 h 0 m 0 s
+Implicit linearity (after removal of redundant rows):  0  
+
+Nonredundant representation (except possibly for the linearity part):
+V-representation
+begin
+ 2 5 rational
+ 1 0 1/2 1/2 1
+ 1 0 0 0 1
+end
+
+The linearity rows are independent and thus minimal
+Nonredundant representation (= minimal representation):
+V-representation
+begin
+ 2 5 rational
+ 1 0 1/2 1/2 1
+ 1 0 0 0 1
+end
+
+Adjacency of the minimal representation:
+begin
+  2    2
+ 1 1 : 2 
+ 2 1 : 1 
+end

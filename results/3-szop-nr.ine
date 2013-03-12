@@ -1,0 +1,34 @@
+
+*redund:lrslib v.4.2b, 2006.10.31(32bit,lrsgmp.h gmp v.4.2)
+*Copyright (C) 1995,2006, David Avis   avis@cs.mcgill.ca 
+*Input taken from file 3-szop.ine
+*row 4 was redundant and removed
+*row 9 was redundant and removed
+*row 10 was redundant and removed
+*row 12 was redundant and removed
+*row 13 was redundant and removed
+*row 15 was redundant and removed
+*row 17 was redundant and removed
+*row 11 was redundant and removed
+H-representation
+begin
+13 9 rational
+ 1  0  0  0  0  0  0  0 -1 
+-1  0  0  0  0  0  0  0  1 
+ 0 -1  0  0  0  0  0  0  0 
+ 0  1  0  0  0  0  0  0  0 
+ 0  0  1  0  0  0  0  0  0 
+ 0  0  0  1  0  0  0  0  0 
+ 0  0  0  0  1  0  0  0  0 
+ 0  0 -1 -1  0  1  0  0  0 
+ 0  0 -1  0 -1  0  1  0  0 
+ 0  0  0 -1 -1  0  0  1  0 
+ 0  0 -1  0  0  0  0 -1  1 
+ 0  0  0 -1  0  0 -1  0  1 
+ 0  0  0  0 -1 -1  0  0  1 
+end
+*Input had 21 rows and 9 columns: 8 row(s) redundant
+*redund:lrslib v.4.2b, 2006.10.31(32bit,lrsgmp.h)
+*0.001u 0.002s 0Kb 0 flts 0 swaps 0 blks-in 0 blks-out 
+
+

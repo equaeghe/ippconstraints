@@ -1,0 +1,7 @@
+* roworder: lexmin
+V-representation
+begin
+ 2 3 rational
+ 1 0 0
+ 1 0 1
+end

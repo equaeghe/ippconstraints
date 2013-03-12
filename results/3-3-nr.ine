@@ -1,0 +1,55 @@
+
+*redund:lrslib v.4.2, 2005.6.1(64bit,lrslong.h)
+*Copyright (C) 1995,2005, David Avis   avis@cs.mcgill.ca 
+*Input taken from file 3-3.ine
+*row 4 was redundant and removed
+*row 5 was redundant and removed
+*row 7 was redundant and removed
+*row 8 was redundant and removed
+*row 9 was redundant and removed
+*row 11 was redundant and removed
+*row 12 was redundant and removed
+*row 13 was redundant and removed
+*row 15 was redundant and removed
+*row 16 was redundant and removed
+*row 17 was redundant and removed
+*row 18 was redundant and removed
+*row 19 was redundant and removed
+*row 20 was redundant and removed
+*row 21 was redundant and removed
+*row 22 was redundant and removed
+*row 23 was redundant and removed
+*row 24 was redundant and removed
+*row 25 was redundant and removed
+*row 26 was redundant and removed
+*row 27 was redundant and removed
+*row 28 was redundant and removed
+*row 31 was redundant and removed
+*row 32 was redundant and removed
+*row 33 was redundant and removed
+*row 35 was redundant and removed
+*row 36 was redundant and removed
+*row 37 was redundant and removed
+*row 34 was redundant and removed
+*row 30 was redundant and removed
+*row 38 was redundant and removed
+*row 39 was redundant and removed
+*row 40 was redundant and removed
+*row 41 was redundant and removed
+*row 42 was redundant and removed
+H-representation
+begin
+7 9 rational
+ 0 -1  1  0  0  0  0  0  0 
+ 0 -1  0  1  0  0  0  0  0 
+ 0 -1  0  0  1  0  0  0  0 
+ 0  1 -1 -1  0  1  0  0  0 
+ 0  1 -1  0 -1  0  1  0  0 
+ 0  1  0 -1 -1  0  0  1  0 
+ 0 -1  1  1  1 -1 -1 -1  1 
+end
+*Input had 42 rows and 9 columns: 35 row(s) redundant
+*redund:lrslib v.4.2, 2005.6.1(64bit,lrslong.h)
+*0.003u 0.001s 0Kb 0 flts 0 swaps 0 blks-in 0 blks-out 
+
+

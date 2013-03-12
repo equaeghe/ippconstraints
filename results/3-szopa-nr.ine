@@ -1,0 +1,53 @@
+
+*redund:lrslib v.4.2b, 2006.10.31(32bit,lrsgmp.h gmp v.4.2)
+*Copyright (C) 1995,2006, David Avis   avis@cs.mcgill.ca 
+*Input taken from file 3-szopa.ine
+*row 1 was redundant and removed
+*row 3 was redundant and removed
+*row 4 was redundant and removed
+*row 9 was redundant and removed
+*row 10 was redundant and removed
+*row 11 was redundant and removed
+*row 12 was redundant and removed
+*row 13 was redundant and removed
+*row 15 was redundant and removed
+*row 17 was redundant and removed
+*row 19 was redundant and removed
+*row 20 was redundant and removed
+*row 21 was redundant and removed
+*row 23 was redundant and removed
+*row 24 was redundant and removed
+*row 25 was redundant and removed
+*row 26 was redundant and removed
+*row 27 was redundant and removed
+*row 28 was redundant and removed
+*row 30 was redundant and removed
+*row 31 was redundant and removed
+*row 32 was redundant and removed
+*row 33 was redundant and removed
+*row 36 was redundant and removed
+*row 37 was redundant and removed
+*row 38 was redundant and removed
+H-representation
+begin
+14 9 rational
+-1  0  0  0  0  0  0  0  1 
+ 0  1  0  0  0  0  0  0  0 
+ 0  0  1  0  0  0  0  0  0 
+ 0  0  0  1  0  0  0  0  0 
+ 0  0  0  0  1  0  0  0  0 
+ 0  0 -1 -1  0  1  0  0  0 
+ 0  0 -1  0 -1  0  1  0  0 
+ 0  0  0 -1 -1  0  0  1  0 
+ 0 -1  0  0  0  0  0  0  0 
+ 1  0  0  0  0  0  0  0 -1 
+ 1  0 -1  0  0  0  0 -1  0 
+ 2  0  0  0  0 -1 -1 -1  0 
+ 1  0  0  0 -1 -1  0  0  0 
+ 1  0  0 -1  0  0 -1  0  0 
+end
+*Input had 40 rows and 9 columns: 26 row(s) redundant
+*redund:lrslib v.4.2b, 2006.10.31(32bit,lrsgmp.h)
+*0.004u 0.002s 0Kb 0 flts 0 swaps 0 blks-in 0 blks-out 
+
+

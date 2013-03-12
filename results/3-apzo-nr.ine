@@ -1,0 +1,40 @@
+
+*row 1 was redundant and removed
+*row 3 was redundant and removed
+*row 4 was redundant and removed
+*row 12 was redundant and removed
+*row 14 was redundant and removed
+*row 15 was redundant and removed
+*row 16 was redundant and removed
+*row 17 was redundant and removed
+*row 18 was redundant and removed
+*row 19 was redundant and removed
+*row 22 was redundant and removed
+*row 23 was redundant and removed
+*row 24 was redundant and removed
+*row 27 was redundant and removed
+*row 28 was redundant and removed
+*row 29 was redundant and removed
+H-representation
+begin
+15 9 rational
+-1  0  0  0  0  0  0  0  1 
+ 0  1  0  0  0  0  0  0  0 
+ 0  0  1  0  0  0  0  0  0 
+ 0  0  0  1  0  0  0  0  0 
+ 0  0  0  0  1  0  0  0  0 
+ 0  0  0  0  0  1  0  0  0 
+ 0  0  0  0  0  0  1  0  0 
+ 0  0  0  0  0  0  0  1  0 
+ 0 -1  0  0  0  0  0  0  0 
+ 1  0  0  0  0  0  0  0 -1 
+ 1  0 -1 -1 -1  0  0  0  0 
+ 1  0 -1  0  0  0  0 -1  0 
+ 2  0  0  0  0 -1 -1 -1  0 
+ 1  0  0  0 -1 -1  0  0  0 
+ 1  0  0 -1  0  0 -1  0  0 
+end
+*Input had 31 rows and 9 columns: 16 row(s) redundant
+*redund:lrslib v.4.2b, 2006.10.31(32bit,lrsgmp.h)
+*0.004u 0.000s 0Kb 6 flts 0 swaps 0 blks-in 0 blks-out 
+
