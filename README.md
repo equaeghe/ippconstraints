@@ -47,3 +47,31 @@ They describe the calculation of the additive (l), positive (p), one-normed (o) 
 
 [lrs]: http://cgm.cs.mcgill.ca/~avis/C/lrs.html
 [cdd]: http://www.inf.ethz.ch/personal/fukudak/cdd_home/
+
+
+References & citing
+-------------------
+
+This code has been used for my research. This research has been presented:
+  - at a conference
+    > Quaeghebeur, Erik, and De Cooman, Gert. 2006. 
+    > “Extreme Lower Probabilities.”
+    > Ed. A. Bugarin, M. A. Gil, P. Grzegorzewski, O. Hyrniewicz, J. Lawry, S. Li, and E. Miranda. 
+    > Soft Methods for Integrated Uncertainty Modelling: 211–221.
+    > [doi:10.1007/3-540-34777-1_26](http://dx.doi.org/10.1007/3-540-34777-1_26), 
+    > [hdl:1854/6276](http://hdl.handle.net/1854/6276).
+
+  - in a journal paper
+    > Quaeghebeur, Erik, and De Cooman, Gert. 2008. 
+    > “Extreme Lower Probabilities.”
+    > Fuzzy Sets and Systems 159 (16): 2163–2175.
+    > [doi:10.1016/j.fss.2007.11.020](10.1016/j.fss.2007.11.020),
+    > [hdl:1854/11713](http://hdl.handle.net/1854/11713).
+
+  - in my PhD thesis:
+    > Quaeghebeur, Erik. 2009.
+    > “Learning from Samples Using Coherent Lower Previsions”. 
+    > Ghent, Belgium: Ghent University. Faculty of Engineering.
+    > [hdl:1854/LU-495650](http://hdl.handle.net/1854/LU-495650).
+
+Please cite the journal paper if you use any material in this repository.
